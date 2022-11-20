@@ -1041,10 +1041,10 @@
   resolved "https://registry.npmjs.org/@types/node/-/node-8.10.54.tgz#1c88eb253ac1210f1a5876953fb70f7cc4928402"
   integrity sha512-kaYyLYf6ICn6/isAyD4K1MyWWd5Q3JgH6bnMN089LUx88+s4W8GvK9Q6JMBVu5vsFFp7pMdSxdKmlBXwH/VFRg==
 
-"@types/optimist@0.0.29":
-  version "0.0.29"
-  resolved "https://registry.npmjs.org/@types/optimist/-/optimist-0.0.29.tgz#a8873580b3a84b69ac1e687323b15fbbeb90479a"
-  integrity sha1-qIc1gLOoS2msHmhzI7Ffu+uQR5o=
+"@types/optimist@0.0.30":
+  version "0.0.30"
+  resolved "https://registry.yarnpkg.com/@types/optimist/-/optimist-0.0.30.tgz#6b91b312c4256a45a8df2caa278d6119db53ef13"
+  integrity sha512-dXwE/kn9pOLiofxjeOsR5cY8fHilaa0k+oKWvZ0hV/sGdhW2b55wo2cEvlWALWEeio1U7F2kGtjga5TIhfh7bg==
 
 "@types/socket.io-client@^1.4.32":
   version "1.4.32"
