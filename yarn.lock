@@ -1281,7 +1281,14 @@
   resolved "https://registry.npmjs.org/@types/uuid/-/uuid-8.3.4.tgz"
   integrity sha512-c/I8ZRb51j+pYGAu5CrFMRxqZ2ke4y2grEBO5AUjgSkSk+qT2Ea+OdWElz/OiMf5MNpn2b17kuVBwZLQJXzihw==
 
-"@types/ws@7.4.6", "@types/ws@^7.4.6":
+"@types/ws@7.4.7":
+  version "7.4.7"
+  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-7.4.7.tgz#f7c390a36f7a0679aa69de2d501319f4f8d9b702"
+  integrity sha512-JQbbmxZTZehdc2iszGKs5oC3NFnjeay7mtAWrdt7qNtAVK0g19muApzAy4bm9byz79xa2ZnO/BOBC2R8RC5Lww==
+  dependencies:
+    "@types/node" "*"
+
+"@types/ws@^7.4.6":
   version "7.4.6"
   resolved "https://registry.nlark.com/@types/ws/download/@types/ws-7.4.6.tgz?cache=0&sync_timestamp=1625252949341&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fws%2Fdownload%2F%40types%2Fws-7.4.6.tgz"
   integrity sha1-xDIIReQ9RacSm7MpBeKHgcccH/8=
@@ -10063,10 +10070,10 @@ write-pkg@^4.0.0:
     type-fest "^0.4.1"
     write-json-file "^3.2.0"
 
-ws@7.5.3, ws@^7.0.0, ws@^7.4.6, ws@^7.5.0:
-  version "7.5.3"
-  resolved "https://registry.nlark.com/ws/download/ws-7.5.3.tgz"
-  integrity sha1-Fgg1tjx9l7+rQY/BuKn87SrAGnQ=
+ws@7.5.13:
+  version "7.5.13"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.13.tgz#12aa507eaca76c295c278b1aebf4698ab2c1845f"
+  integrity sha512-rsKI6xDBFVf4r/x8XyChGK04QR/XHroxs/jUcoWvtEZM8TPU/X/uIY9B1CsSzYws9ZJb/6bbBu7dPhFW00CAoA==
 
 ws@^3.2.0:
   version "3.3.3"
@@ -10076,6 +10083,11 @@ ws@^3.2.0:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
+
+ws@^7.0.0, ws@^7.4.6, ws@^7.5.0:
+  version "7.5.3"
+  resolved "https://registry.nlark.com/ws/download/ws-7.5.3.tgz"
+  integrity sha1-Fgg1tjx9l7+rQY/BuKn87SrAGnQ=
 
 ws@~7.4.2:
   version "7.4.6"
